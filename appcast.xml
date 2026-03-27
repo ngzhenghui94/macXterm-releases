@@ -3,6 +3,18 @@
     <channel>
         <title>macXterm</title>
         <item>
+            <title>1.40.2</title>
+            <pubDate>Fri, 27 Mar 2026 17:36:15 +0000</pubDate>
+            <link>https://macxterm.com</link>
+            <sparkle:version>115</sparkle:version>
+            <sparkle:shortVersionString>1.40.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.2.dmg" length="8635002" type="application/octet-stream" sparkle:edSignature="G7DdzY77rJ4DvlixVRWHNrJd+WSrS/3NViuh9oK+u58f9oGzJu/JQh8gxNzjoXcjWCe9W8FcSFrSTBVYbaG2Ag=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm115-110.delta" sparkle:deltaFrom="110" length="1608478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Axi+/jkhIGusExyr3Y3jLzNimglPJUJvCCdN+boBmHcxtHz4VuLKx+uRYdJSmitS7aaQwC1DL/+7yBMW9AAxDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.40.1</title>
             <pubDate>Fri, 27 Mar 2026 03:58:31 +0000</pubDate>
             <link>https://macxterm.com</link>
