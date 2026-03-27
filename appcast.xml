@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>macXterm</title>
+        <item>
+            <title>1.40.1</title>
+            <pubDate>Fri, 27 Mar 2026 03:58:31 +0000</pubDate>
+            <link>https://macxterm.com</link>
+            <sparkle:version>110</sparkle:version>
+            <sparkle:shortVersionString>1.40.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.1.dmg" length="8546214" type="application/octet-stream" sparkle:edSignature="qp8YXUdOSLPSRRRluPWeRmMnTR77xPPWAy0lJhGSZqrZeAbQwP4s9fVbh9qsUNlmRZ2RW1s1wK/SfhgQJyNGDA=="/>
+        </item>
+    </channel>
+</rss>
