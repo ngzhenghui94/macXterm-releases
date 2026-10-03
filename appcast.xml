@@ -3,6 +3,16 @@
     <channel>
         <title>macXterm</title>
         <item>
+            <title>1.40.5</title>
+            <pubDate>Sat, 03 Oct 2026 13:37:41 +0000</pubDate>
+            <link>https://macxterm.com</link>
+            <sparkle:version>196</sparkle:version>
+            <sparkle:shortVersionString>1.40.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Fixes terminal mouse handling, session import, and FTP filenames.</p><ul><li>Restore right and middle mouse press, drag, and release handling.</li><li>Correct SGR releases and urxvt mouse reports.</li><li>Keep imported sessions in the correct renamed folder.</li><li>Preserve accented and non-Latin FTP filenames.</li></ul>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.5.dmg" length="10282516" type="application/octet-stream" sparkle:edSignature="Hy9FMjDpMQLXL6qboq+7ylkmvbBFXSZUyMEbW98pFGJW6OuXAE/fkQrqgqy9+uxpcxR8acU3AfMNsRtFTnDRCA=="/>
+        </item>
+        <item>
             <title>1.40.4</title>
             <pubDate>Tue, 22 Sep 2026 12:47:30 +0000</pubDate>
             <link>https://macxterm.com</link>
