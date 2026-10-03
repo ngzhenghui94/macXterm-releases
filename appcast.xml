@@ -3,6 +3,21 @@
     <channel>
         <title>macXterm</title>
         <item>
+            <title>1.40.6</title>
+            <pubDate>Sat, 03 Oct 2026 22:04:00 +0800</pubDate>
+            <link>https://macxterm.com</link>
+            <sparkle:version>197</sparkle:version>
+            <sparkle:shortVersionString>1.40.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Update macXterm from inside the app, with a relaunch when you choose.</p><ul><li>Check for Updates now opens the built-in updater.</li><li>Prevent duplicate update checks.</li><li>Keep Download from Website available in Settings for recovery.</li><li>Use smaller signed delta downloads for compatible recent versions.</li></ul><p>Relaunching ends active terminal connections. If an older version opens the website for manual checks, install this release once to get the new flow.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.6.dmg" length="10264435" type="application/octet-stream" sparkle:edSignature="7xR9pILVH86N/+A+hOTjZAroTOKtTvVZQiYNQv7UDKj8/Fo4xqnW09vo+2RFdlqemk/A2qtwXpZy3DrPBdEZBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm197-196.delta" sparkle:deltaFrom="196" length="1461998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YSNFjLYTrFgESZfvIFfZbA10cGZQ48d+3OGLv4cwyuodxARdOSpurEWLph2+X8952dy7zzGAyyejHlSq9n0SCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm197-148.delta" sparkle:deltaFrom="148" length="3370510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XC2Cq+Ic0i7V5uBNUIT2/43xBw1qpe6QJ45KUzohc19mW4KgCY8owTNE9yOo/Fpjr86fSUqMZ88g7OeSz7xGAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.40.5</title>
             <pubDate>Sat, 03 Oct 2026 13:37:41 +0000</pubDate>
             <link>https://macxterm.com</link>
