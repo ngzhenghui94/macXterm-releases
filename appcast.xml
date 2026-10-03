@@ -3,6 +3,21 @@
     <channel>
         <title>macXterm</title>
         <item>
+            <title>1.40.7</title>
+            <pubDate>Sat, 03 Oct 2026 22:25:13 +0800</pubDate>
+            <link>https://macxterm.com</link>
+            <sparkle:version>198</sparkle:version>
+            <sparkle:shortVersionString>1.40.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Polished the welcome screen, Quick Connect, and session search.</p><ul><li>A simpler welcome screen that adapts to narrower windows.</li><li>Clearer Quick Connect fields, keyboard focus, and invalid-port help.</li><li>A translated no-results message with a Clear Search button.</li><li>Includes the built-in updater and smaller signed update downloads.</li></ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.7.dmg" length="10303476" type="application/octet-stream" sparkle:edSignature="mf51jSjXpIVn584Jz951d5U8vjwnrOiS0lDuUmQNxrBzN7TK85ii9zUJLNo2Dt8o1uwUyypWA2sL6W3o+UKhBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm198-197.delta" sparkle:deltaFrom="197" length="1097298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h8OfkhBamv9f4m3USjZyZN5cEDgYakAgI5pi/tY/alK32j/mwlRZZjgPeYCaqfNIDO2tWSr+czcwP6zztbD3Cg=="/>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm198-196.delta" sparkle:deltaFrom="196" length="1623014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ciXAwfXFKJMDG6RCO8zybVz6Q9Fr7cSBYWM3JTbJqRu5iIHdsNa4OvpxdEh7jFKVCgbiuVJApSxIqEJEvZxSCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.40.6</title>
             <pubDate>Sat, 03 Oct 2026 22:04:00 +0800</pubDate>
             <link>https://macxterm.com</link>
