@@ -3,6 +3,23 @@
     <channel>
         <title>macXterm</title>
         <item>
+            <title>1.40.8</title>
+            <pubDate>Tue, 06 Oct 2026 00:15:15 +0800</pubDate>
+            <link>https://macxterm.com</link>
+            <sparkle:version>199</sparkle:version>
+            <sparkle:shortVersionString>1.40.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.8.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.8.dmg" length="10366877" type="application/octet-stream" sparkle:edSignature="XvfkoZKZYmORNBpNEbdAB1HfEZI4o9kqpYpjCuZesI6oGuSLcjEawZDkveX5dziywfKu2vXyrksHKhx9LQX2Ag=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm199-198.delta" sparkle:deltaFrom="198" length="1743810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qnXwX7fIwDYvOFmc2XJBNzZiPat1rNLZpruGXi0zco5aT4JesLI28Or2752TNiq3Oq1UNxGlXhPRBOmtqmlzAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm199-197.delta" sparkle:deltaFrom="197" length="1891038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eMxQD6UCOJt24DK5OsJ5aejo2a9Xj493PJyjjvcizrRy60wk8kevmVtSm3MwtstmF/EP2awjD5iabddT6sf2DQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm199-196.delta" sparkle:deltaFrom="196" length="1556362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rC3v9tgOqQp7z7lDdBn54eJyHu9L8+lge2ZdNldLX2wdcDsbAu3OBmiXDbDIuSF0e0lyF9QGlAQiE2SES3u8AQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm199-148.delta" sparkle:deltaFrom="148" length="3919214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GzFNls5EdSdSuZBXO5ntME0HaorNeUpGepftizyJ+O54RKMwmDEBr0pCVp/r53HFdWaAubDe8H4u/tbyYHUiAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm199-145.delta" sparkle:deltaFrom="145" length="3872618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="v1owaG6fHgE0QZUAHBa9jouHnFTID7n3eDAQK3bfHYhUok056RJNOS2xxffhSzk5RP8tmR3zFH5w/eVJfxX8Bw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.40.7</title>
             <pubDate>Sat, 03 Oct 2026 22:25:13 +0800</pubDate>
             <link>https://macxterm.com</link>
@@ -30,55 +47,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm197-196.delta" sparkle:deltaFrom="196" length="1461998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YSNFjLYTrFgESZfvIFfZbA10cGZQ48d+3OGLv4cwyuodxARdOSpurEWLph2+X8952dy7zzGAyyejHlSq9n0SCA=="/>
                 <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm197-148.delta" sparkle:deltaFrom="148" length="3370510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XC2Cq+Ic0i7V5uBNUIT2/43xBw1qpe6QJ45KUzohc19mW4KgCY8owTNE9yOo/Fpjr86fSUqMZ88g7OeSz7xGAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.40.5</title>
-            <pubDate>Sat, 03 Oct 2026 13:37:41 +0000</pubDate>
-            <link>https://macxterm.com</link>
-            <sparkle:version>196</sparkle:version>
-            <sparkle:shortVersionString>1.40.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Fixes terminal mouse handling, session import, and FTP filenames.</p><ul><li>Restore right and middle mouse press, drag, and release handling.</li><li>Correct SGR releases and urxvt mouse reports.</li><li>Keep imported sessions in the correct renamed folder.</li><li>Preserve accented and non-Latin FTP filenames.</li></ul>]]></description>
-            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.5.dmg" length="10282516" type="application/octet-stream" sparkle:edSignature="Hy9FMjDpMQLXL6qboq+7ylkmvbBFXSZUyMEbW98pFGJW6OuXAE/fkQrqgqy9+uxpcxR8acU3AfMNsRtFTnDRCA=="/>
-        </item>
-        <item>
-            <title>1.40.4</title>
-            <pubDate>Tue, 22 Sep 2026 12:47:30 +0000</pubDate>
-            <link>https://macxterm.com</link>
-            <sparkle:version>148</sparkle:version>
-            <sparkle:shortVersionString>1.40.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.4.dmg" length="10199576" type="application/octet-stream" sparkle:edSignature="vanffKdvwNtBSvGlnLqPiq78oc4JlBUau6qssOan2iTTIykgHY/JaNB/bJJhCPMpiNF8r8keSqtYuOpsnd7MAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm148-145.delta" sparkle:deltaFrom="145" length="2051266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5LfdydeOOWAEzHncYFXPaF0YXHCCS+kdAg+QPC7plpy0SujxflIw58/368oZTInc2SAs6BVH/x/MPwjays8TBw=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm148-115.delta" sparkle:deltaFrom="115" length="4999174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6it/u29zsQSnMEaTtkeXFsdKOQiBR6kDAO3UhpB66S+7pAvXJtDuWUU8bofABuiqe2KaZB8qL2/dsMVrf2qPCQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm148-110.delta" sparkle:deltaFrom="110" length="5062254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="E4aUpHHhP8CL7QD0NKqw/+4P8kWsgIr4PcYGj2Ns03J5O+p+x0lw+WDWkJh65VT3qaWHOW8tDG48DMSFXuOCDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.40.3</title>
-            <pubDate>Thu, 27 Aug 2026 14:16:23 +0000</pubDate>
-            <link>https://macxterm.com</link>
-            <sparkle:version>145</sparkle:version>
-            <sparkle:shortVersionString>1.40.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.3.dmg" length="10062266" type="application/octet-stream" sparkle:edSignature="5dd52HUeTEiTQc3PQuoEoL+0vmWEN1uGjQ+ilDpcTLGUJytUBIovvXUDeRsQN18pdGrucNACMrymPmfb0p00Bg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm145-115.delta" sparkle:deltaFrom="115" length="4649338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WTs4I9CQr+SIAQ5VGBwCRwZKqVy94z+fTy4fMk19O+1597FicjmeZhih+2SdbuS8lbueVkG/d1iTncPuGVXIDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm145-110.delta" sparkle:deltaFrom="110" length="4699210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2M6Yj8xO7W2aKu25LUMbvyqcZKDaKUvPLX634fj4lHwQe5oDE3SeGv4b+OLv+d6VA6kXNi7r5ds6U4MCUuCCDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.40.2</title>
-            <pubDate>Fri, 27 Mar 2026 17:36:15 +0000</pubDate>
-            <link>https://macxterm.com</link>
-            <sparkle:version>115</sparkle:version>
-            <sparkle:shortVersionString>1.40.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.2.dmg" length="8635002" type="application/octet-stream" sparkle:edSignature="G7DdzY77rJ4DvlixVRWHNrJd+WSrS/3NViuh9oK+u58f9oGzJu/JQh8gxNzjoXcjWCe9W8FcSFrSTBVYbaG2Ag=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm115-110.delta" sparkle:deltaFrom="110" length="1608478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Axi+/jkhIGusExyr3Y3jLzNimglPJUJvCCdN+boBmHcxtHz4VuLKx+uRYdJSmitS7aaQwC1DL/+7yBMW9AAxDQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
