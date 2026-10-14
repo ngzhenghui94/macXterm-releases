@@ -1,54 +1,58 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:ns0="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>macXterm</title>
+        <item><title>macXterm 1.40.13</title><ns0:version>205</ns0:version><ns0:shortVersionString>1.40.13</ns0:shortVersionString><ns0:minimumSystemVersion>15.5</ns0:minimumSystemVersion><enclosure url="https://github.com/ngzhenghui94/macXterm-releases/releases/download/v1.40.13/macXterm-v1.40.13.dmg" length="10415103" type="application/octet-stream" ns0:edSignature="fHwMFEvZo5qq55I+mwAOa/7ooU1914aZuLHGbnH5L/11IMV7h7CBbUH2cM0FnIi58q+kw3Iz/YEaLPv1ku28CQ=="></enclosure></item><title>macXterm</title>
         <item>
             <title>1.40.12</title>
             <pubDate>Fri, 09 Oct 2026 14:39:04 +0000</pubDate>
             <link>https://macxterm.com</link>
-            <sparkle:version>204</sparkle:version>
-            <sparkle:shortVersionString>1.40.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.12.dmg" length="10342700" type="application/octet-stream" sparkle:edSignature="A+DEQw07Yo8eoNQiqMau2jgCcZTO9lVXt9Ok9l2hW0OyWwe204J5gX51p8UPSQLRuqOURaOmJSCUG1ZLb2hQBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm204-203.delta" sparkle:deltaFrom="203" length="18034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="juSo+v2ZE0ufhEekvpDJAtPZhAhn1lYy/zyYXyOPeI8Oi494PK3IgH8texrQN/xnPbfSkPHBzXp4ENz39u1gDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm204-201.delta" sparkle:deltaFrom="201" length="996774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CM9LH3YQKcazdhrW9PlLsd93ULm1npWEoOZQajzdHfrf67gmbElFF1DN/hb2s6z3fsOHvCtDVRu0QPvqPt/lDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm204-200.delta" sparkle:deltaFrom="200" length="1029258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Mpt+aNx0jlqlGSZjzoEsmeTSDFFxcxOjDV+1bFu4D/e8SnZEd2vMa+FDhhlWNLaKimSLWsT7UjUNe3q2f0FMCg=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm204-199.delta" sparkle:deltaFrom="199" length="3366634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rkp8FLhQEiazDITkDKlStenVMionKNUkZli8WcRcYe92K6GwxIDQZo0ar6HU4XrJiBHT/AmVxGRFrn1sm8FRBA=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm204-198.delta" sparkle:deltaFrom="198" length="3842206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="opV89+p0e0oxMefrVZaYF+vUAiBFuvsoA4yC8kLuzOdbz9IyQwJSKztC7o54+hegHxKBFijcRbWFMKJi3AZCBg=="/>
-            </sparkle:deltas>
+            <ns0:version>204</ns0:version>
+            <ns0:shortVersionString>1.40.12</ns0:shortVersionString>
+            <ns0:minimumSystemVersion>15.5</ns0:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.12.dmg" length="10342700" type="application/octet-stream" ns0:edSignature="A+DEQw07Yo8eoNQiqMau2jgCcZTO9lVXt9Ok9l2hW0OyWwe204J5gX51p8UPSQLRuqOURaOmJSCUG1ZLb2hQBw=="></enclosure>
+            <ns0:deltas>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm204-203.delta" ns0:deltaFrom="203" length="18034" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="977808" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="juSo+v2ZE0ufhEekvpDJAtPZhAhn1lYy/zyYXyOPeI8Oi494PK3IgH8texrQN/xnPbfSkPHBzXp4ENz39u1gDg=="></enclosure>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm204-201.delta" ns0:deltaFrom="201" length="996774" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="977808" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="CM9LH3YQKcazdhrW9PlLsd93ULm1npWEoOZQajzdHfrf67gmbElFF1DN/hb2s6z3fsOHvCtDVRu0QPvqPt/lDQ=="></enclosure>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm204-200.delta" ns0:deltaFrom="200" length="1029258" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="977808" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="Mpt+aNx0jlqlGSZjzoEsmeTSDFFxcxOjDV+1bFu4D/e8SnZEd2vMa+FDhhlWNLaKimSLWsT7UjUNe3q2f0FMCg=="></enclosure>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm204-199.delta" ns0:deltaFrom="199" length="3366634" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="977808" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="rkp8FLhQEiazDITkDKlStenVMionKNUkZli8WcRcYe92K6GwxIDQZo0ar6HU4XrJiBHT/AmVxGRFrn1sm8FRBA=="></enclosure>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm204-198.delta" ns0:deltaFrom="198" length="3842206" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="976432" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="opV89+p0e0oxMefrVZaYF+vUAiBFuvsoA4yC8kLuzOdbz9IyQwJSKztC7o54+hegHxKBFijcRbWFMKJi3AZCBg=="></enclosure>
+            </ns0:deltas>
         </item>
         <item>
             <title>1.40.11</title>
             <pubDate>Fri, 09 Oct 2026 12:51:21 +0000</pubDate>
             <link>https://macxterm.com</link>
-            <sparkle:version>203</sparkle:version>
-            <sparkle:shortVersionString>1.40.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.11.dmg" length="10345795" type="application/octet-stream" sparkle:edSignature="vVD71/M006kYpEexCJGE3IuFiVDCPZAXe7XS5sL2bxGVamhGVNpClnhAEa3K0lBQ8ZsM0qMdnwEyvRucfRc0CA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm203-201.delta" sparkle:deltaFrom="201" length="995530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="K+zVjMoQmMlssDW5IE2ioa9kcQYo6sXKSgqXYdrVxc1v+ZfA9no7yFgAEAcIZLKmh/ZPW1KskUx1VNMLWwTpCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm203-200.delta" sparkle:deltaFrom="200" length="1027442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="t+dJWQAoT0+9Sabrt66Z4lK86W1LthoszLWwGZ85LJd/5w39GUsAxSWdnrZQtcFTyPUSR3lRb1wN/I2OJuUHBA=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm203-199.delta" sparkle:deltaFrom="199" length="3367958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="35A3Qd6zTJBIKFQ4Ks27phQatrA929z2oOFl0JAdyptMqQicksX1m20l74v9Bja/5tnktnSy/g+uiUQOX3MZAA=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm203-198.delta" sparkle:deltaFrom="198" length="3842990" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EOxMnqIelHDA97Z47xQBbNDyV9C6YgQueKmqfFce3+/sl5SYzQSXUCdXWRVe6ijy3eahawQpcInwfLcpncJ+BA=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm203-197.delta" sparkle:deltaFrom="197" length="3904326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qDfe1BDtn6PvxGlIL4yFtQ+Yw1i6M+hWdMYOQozJ17U4q0+P4HzGWdz6Ty+ZHveDq/C+0Ue9Ch1nUm3SswxQCQ=="/>
-            </sparkle:deltas>
+            <ns0:version>203</ns0:version>
+            <ns0:shortVersionString>1.40.11</ns0:shortVersionString>
+            <ns0:minimumSystemVersion>15.5</ns0:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.11.dmg" length="10345795" type="application/octet-stream" ns0:edSignature="vVD71/M006kYpEexCJGE3IuFiVDCPZAXe7XS5sL2bxGVamhGVNpClnhAEa3K0lBQ8ZsM0qMdnwEyvRucfRc0CA=="></enclosure>
+            <ns0:deltas>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm203-201.delta" ns0:deltaFrom="201" length="995530" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="977808" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="K+zVjMoQmMlssDW5IE2ioa9kcQYo6sXKSgqXYdrVxc1v+ZfA9no7yFgAEAcIZLKmh/ZPW1KskUx1VNMLWwTpCw=="></enclosure>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm203-200.delta" ns0:deltaFrom="200" length="1027442" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="977808" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="t+dJWQAoT0+9Sabrt66Z4lK86W1LthoszLWwGZ85LJd/5w39GUsAxSWdnrZQtcFTyPUSR3lRb1wN/I2OJuUHBA=="></enclosure>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm203-199.delta" ns0:deltaFrom="199" length="3367958" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="977808" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="35A3Qd6zTJBIKFQ4Ks27phQatrA929z2oOFl0JAdyptMqQicksX1m20l74v9Bja/5tnktnSy/g+uiUQOX3MZAA=="></enclosure>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm203-198.delta" ns0:deltaFrom="198" length="3842990" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="976432" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="EOxMnqIelHDA97Z47xQBbNDyV9C6YgQueKmqfFce3+/sl5SYzQSXUCdXWRVe6ijy3eahawQpcInwfLcpncJ+BA=="></enclosure>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm203-197.delta" ns0:deltaFrom="197" length="3904326" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="976432" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="qDfe1BDtn6PvxGlIL4yFtQ+Yw1i6M+hWdMYOQozJ17U4q0+P4HzGWdz6Ty+ZHveDq/C+0Ue9Ch1nUm3SswxQCQ=="></enclosure>
+            </ns0:deltas>
         </item>
         <item>
             <title>1.40.10</title>
             <pubDate>Wed, 07 Oct 2026 16:44:16 +0000</pubDate>
             <link>https://macxterm.com</link>
-            <sparkle:version>201</sparkle:version>
-            <sparkle:shortVersionString>1.40.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.10.dmg" length="10336301" type="application/octet-stream" sparkle:edSignature="YC8dZGmDzd+1CE5yzu7Tz0lFErBTo+RnrIjsSkkN+n+q81JPzhYj/YPZMFmRhV0A8Q5mcra+OwarYAJfGN66AA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm201-200.delta" sparkle:deltaFrom="200" length="384090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZGQ+j0cc4ZGZzG4nulaj/sU4zmBs2yBNzhNGjRn2tP73CvAfWXIKk9ZNlxzCF6TX9wn+FyJm9OsQ+kd8ReU9Bw=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm201-199.delta" sparkle:deltaFrom="199" length="3329914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="k2ICCNWM3S5GSDYb2DieKw5DtSUd8UO55pA/VEzVSaUSxvILmQmkE0diJznMlBRjXYDcqi6wfxZptqvpphfeCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm201-198.delta" sparkle:deltaFrom="198" length="3821658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="l2KK203Eii2upeQGpr4J2mmkG9ErK1tX4AEiB1riYMkj+O65IZYCtQzZzLfsLxGXdOkXZ308LVFBw0trR6ScAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm201-197.delta" sparkle:deltaFrom="197" length="3872810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FNWqk/CYLRu4tWzbJD2CTEDwvPFqaYhCXs1dWLVosAf6RdH8TQuecfPxLIEnSvqpzbFbxzyQRvOQrzisyu8hBA=="/>
-                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm201-196.delta" sparkle:deltaFrom="196" length="3491694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RbLnk/aVVcZSxpFjq9YjEmgXmlJ0LDGd0yEqyL8GLFkYjUBR9jYwLolx1QnZDhgcWhsZS5sVMJwlWgCMb3r/AA=="/>
-            </sparkle:deltas>
+            <ns0:version>201</ns0:version>
+            <ns0:shortVersionString>1.40.10</ns0:shortVersionString>
+            <ns0:minimumSystemVersion>15.5</ns0:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm-v1.40.10.dmg" length="10336301" type="application/octet-stream" ns0:edSignature="YC8dZGmDzd+1CE5yzu7Tz0lFErBTo+RnrIjsSkkN+n+q81JPzhYj/YPZMFmRhV0A8Q5mcra+OwarYAJfGN66AA=="></enclosure>
+            <ns0:deltas>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm201-200.delta" ns0:deltaFrom="200" length="384090" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="977808" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="ZGQ+j0cc4ZGZzG4nulaj/sU4zmBs2yBNzhNGjRn2tP73CvAfWXIKk9ZNlxzCF6TX9wn+FyJm9OsQ+kd8ReU9Bw=="></enclosure>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm201-199.delta" ns0:deltaFrom="199" length="3329914" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="977808" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="k2ICCNWM3S5GSDYb2DieKw5DtSUd8UO55pA/VEzVSaUSxvILmQmkE0diJznMlBRjXYDcqi6wfxZptqvpphfeCw=="></enclosure>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm201-198.delta" ns0:deltaFrom="198" length="3821658" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="976432" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="l2KK203Eii2upeQGpr4J2mmkG9ErK1tX4AEiB1riYMkj+O65IZYCtQzZzLfsLxGXdOkXZ308LVFBw0trR6ScAw=="></enclosure>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm201-197.delta" ns0:deltaFrom="197" length="3872810" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="976432" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="FNWqk/CYLRu4tWzbJD2CTEDwvPFqaYhCXs1dWLVosAf6RdH8TQuecfPxLIEnSvqpzbFbxzyQRvOQrzisyu8hBA=="></enclosure>
+                <enclosure url="https://raw.githubusercontent.com/ngzhenghui94/macXterm-releases/main/macXterm201-196.delta" ns0:deltaFrom="196" length="3491694" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="977808" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="RbLnk/aVVcZSxpFjq9YjEmgXmlJ0LDGd0yEqyL8GLFkYjUBR9jYwLolx1QnZDhgcWhsZS5sVMJwlWgCMb3r/AA=="></enclosure>
+            </ns0:deltas>
         </item>
     </channel>
-</rss>
+</rss><!-- sparkle-signatures:
+edSignature: s6bc/nk/beY5G3ETsg0INNAaI5ALA3Z+IzcWMetCWoQx/r0zaEuffVpR6eDbDkC+hf9ubWwqNgv0XALhMoEUDw==
+length: 9141
+-->
