@@ -2,7 +2,7 @@
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:ns0="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <item><title>macXterm 1.40.13</title><ns0:version>205</ns0:version><ns0:shortVersionString>1.40.13</ns0:shortVersionString><ns0:minimumSystemVersion>15.5</ns0:minimumSystemVersion><enclosure url="https://github.com/ngzhenghui94/macXterm-releases/releases/download/v1.40.13/macXterm-v1.40.13.dmg" length="10415103" type="application/octet-stream" ns0:edSignature="fHwMFEvZo5qq55I+mwAOa/7ooU1914aZuLHGbnH5L/11IMV7h7CBbUH2cM0FnIi58q+kw3Iz/YEaLPv1ku28CQ=="></enclosure></item><title>macXterm</title>
+        <item><title>macXterm 1.40.17</title><ns0:version>209</ns0:version><ns0:shortVersionString>1.40.17</ns0:shortVersionString><ns0:minimumSystemVersion>15.5</ns0:minimumSystemVersion><enclosure url="https://github.com/ngzhenghui94/macXterm-releases/releases/download/v1.40.17/macXterm-v1.40.17.dmg" length="10406785" type="application/octet-stream" ns0:edSignature="NNnCV+O0ZMzcuJ3KKUjvMABEef3/Xq70+0ceURIgd3+VTLyZIC9sCksks767qpzGclcVgkUN4fmLmrVH0sTMAA=="></enclosure></item><item><title>macXterm 1.40.13</title><ns0:version>205</ns0:version><ns0:shortVersionString>1.40.13</ns0:shortVersionString><ns0:minimumSystemVersion>15.5</ns0:minimumSystemVersion><enclosure url="https://github.com/ngzhenghui94/macXterm-releases/releases/download/v1.40.13/macXterm-v1.40.13.dmg" length="10415103" type="application/octet-stream" ns0:edSignature="fHwMFEvZo5qq55I+mwAOa/7ooU1914aZuLHGbnH5L/11IMV7h7CBbUH2cM0FnIi58q+kw3Iz/YEaLPv1ku28CQ=="></enclosure></item><title>macXterm</title>
         <item>
             <title>1.40.12</title>
             <pubDate>Fri, 09 Oct 2026 14:39:04 +0000</pubDate>
@@ -53,6 +53,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: s6bc/nk/beY5G3ETsg0INNAaI5ALA3Z+IzcWMetCWoQx/r0zaEuffVpR6eDbDkC+hf9ubWwqNgv0XALhMoEUDw==
-length: 9141
+edSignature: wRe9a/3WYbT+vuw/6cxwQS0xyJxeTds0xkeYuAtDqnizDJEzXuzPv4YFXEOl7ScgoBhbUWu1IPz89YmY4NKCBg==
+length: 9613
 -->
